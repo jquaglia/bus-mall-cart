@@ -2,3 +2,12 @@
 body {
   background-color: bisque;
 }
+
+header {
+  height: 30px;
+  margin: 20px;
+}
+
+header nav {
+  display: inline-block;
+}
