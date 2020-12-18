@@ -1,6 +1,6 @@
 /* TODO: Make it awesome */
 body {
-  background-color: bisque;
+  background-color: rgb(206, 196, 183);
 }
 
 header {
@@ -10,4 +10,9 @@ header {
 
 header nav {
   display: inline-block;
+}
+
+footer {
+  margin-top: 300px;
+
 }
